@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 
-genai.configure(api_key='AIzaSyAK7Np89oc0g4vJoxjmezwZWE8wYIQYzrM')
+genai.configure(api_key='Paste the appropriate Api key here')
 
 st.title("Python Code Review Tool (Vertex AI)")
 
